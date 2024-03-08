@@ -161,7 +161,7 @@ img {
   text-align: center;
   color: #fff;
   max-width: 496px;
-  margin: 0 auto;
+  margin: 0 0 48px;
 }
 
 .hero-btn {
@@ -173,9 +173,10 @@ img {
   letter-spacing: 0.04em;
   color: #fff;
   border-radius: 4px;
-  padding: 16px 32px;
-  margin-top: 48px;
   border: none;
+  display: block;
+  min-width: 169px;
+  height: 56px;
 }
 
 .hero-btn:hover,
